@@ -58,3 +58,19 @@ body {
 	border-radius: 12px;
 	
 }
+#myselfvideo {
+	margin: 1.5em;
+	border: ridge .2em #800000;
+	padding: 1.7em;
+	background: #DDDDDD;
+}
+#myselfbutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.mousechange {
+text-shadow: 8px 8px 5px #00FF00;	
+}
+
+
+
+
